@@ -24,7 +24,7 @@ body {
   top:75%;
   left:50%;
   transform:translate(-50%,-100%) rotate(45deg);
-  border-bottom-right-radius:100px;
+  border-bottom-right-radius:190px;
   background: linear-gradient(75deg, #2186eb, #37dce2);
 }
 
@@ -239,7 +239,7 @@ nav {
     .curve::before {
         width: 1000px;
         height: 1000px;
-        top: 70%;
+        top: 73%;
     }
 }
 
@@ -292,7 +292,7 @@ nav {
     .curve::before {
         width: 1000px;
         height: 1000px;
-        top: 70%;
+        top: 73%;
     }
 }
 
